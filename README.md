@@ -1,6 +1,6 @@
 ### Hello welcome to my profile. 👋
 
-* 🔭 I’m currently working on AI Assistants
+* 🔭 I’m currently working on [AI Assistants Manager](https://github.com/JohnPaul0403/assistants_manager)
 * 🌱 I’m currently learning Machine Learining and Deep Learning
 * 👯 I’m looking forward to these next few years, and see where it goes.
 * 🤔 I’m also looking for help on more Python work, so let me know if you can help out.
