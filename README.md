@@ -1,7 +1,7 @@
 ### Hello welcome to my profile. 👋
 
-* 🔭 I’m currently working on [AI Assistants Manager](https://github.com/JohnPaul0403/assistants_manager)
-* 🌱 I’m currently learning Machine Learining and Deep Learning
+* 🔭 I’m currently working on [Trading Manager web App](https://github.com/JohnPaul0403/trading_manager)
+* 🌱 I’m currently learning React.
 * 👯 I’m looking forward to these next few years, and see where it goes.
 * 🤔 I’m also looking for help on more Python work, so let me know if you can help out.
 * 💬 Ask me about anything, and im here to help out or talk to.
